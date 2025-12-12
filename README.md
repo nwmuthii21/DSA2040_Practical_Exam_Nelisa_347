@@ -6,7 +6,7 @@ It is organized exactly by the exam sections and tasks, with runnable scripts, S
 
 
 📁 Folder Structure
-
+```
 DSA2040a_practical_exam_Nelisa_347/
 ├── DataMining/
 │   ├── preprocessing_iris.py
@@ -31,7 +31,7 @@ DSA2040a_practical_exam_Nelisa_347/
 │   │   ├── star_schema.png
 │   │   ├── sales_by_country.png
 └── README.md
-
+```
 # Task 1: Data Warehouse Design
 ## STAR SCHEMA
 
@@ -120,8 +120,7 @@ Slice: Select a single dimension value to filter the data cube.
 
 ## Visualizations
 
-![Sales by Counry]
-(DataWarehousing/images/sales_by country.png)
+![Sales by Country](DataWarehousing/images/sales_by_country.png)
 
 
 # Section 2 :Data Mining
